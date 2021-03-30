@@ -1,0 +1,4 @@
+{
+  "name": "SampleQuery1",
+  "query": "SELECT ID, AccId,AccCode,AccName,Address,Lat,Lng FROM Customer"
+}
